@@ -20,7 +20,7 @@ You do this by downloading the program <b>FTProg</b> from the FTDI Site :  <a hr
 
 You need also to configure CBUS0 as RXLED and CBUS1 as TXLED in order to gain LED Functionality.
 
-<b> AND FOR HEAVEANS' SAKE:</b> Never set the FT chip to External OSC (Escpecially on this board where it does not have an External Oscillator) lest you are self-destructive and want to brick your chip !
+<b> AND FOR HEAVENS' SAKE:</b> Never set the FT chip to External OSC (Escpecially on this board where it does not have an External Oscillator) lest you are self-destructive and want to brick your chip !
 
 ![ftprog](img/ftprog.jpg)
 
