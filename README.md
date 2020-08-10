@@ -1,7 +1,7 @@
 # PokeConSerial
 Serial Interfaces for Pocket Computers (ポケコン) (Sharp, Casio, TRS80-M100,...)
 
-![proto](img/g850_kiss2.jpg)
+![Serial Interface](img/g850_small.png)
 
 - <a href="g850_kiss/">Sharp G800/G850/V/S/VS 11pin USB to Serial Interface</a>
 
