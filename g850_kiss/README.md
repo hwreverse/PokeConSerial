@@ -26,4 +26,4 @@ You need also to configure CBUS0 as RXLED and CBUS1 as TXLED in order to gain LE
 
 -------------------------
 
-![Sharp PC-G850* Adapter](img/bigfoot.png)
+![Sharp PC-G850* Adapter](img/bigfoot.jpg)
