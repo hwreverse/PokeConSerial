@@ -4,9 +4,9 @@ USB to Serial (FT232RL based) Interface for the SHARP G800* line of Pocket Compu
 ![Sharp PC-G850* Adapter](img/g850_small.png)
 
 ## Important
-NB 1: the 11pin adapter is a 1x11 pin 2.54mm (100mil) male connector
-NB 2: Use VCC Connect if for some reason, you want to power the device from USB (use with *EXTREME* care!!)
-NB 2: Bridge the 5V VCCIO Solder Jumper to work with the G850*, this sets the I/O Level to 5V
+NB1: the 11pin adapter is a 1x11 pin 2.54mm (100mil) male connector<br>
+NB2: Use VCC Connect if for some reason, you want to power the device from USB (use with *EXTREME* care!!)<br>
+NB3: Bridge the 5V VCCIO Solder Jumper to work with the G850*, this sets the I/O Level to 5V<br>
 
 ## Components
 
