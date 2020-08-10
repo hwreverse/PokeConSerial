@@ -1,5 +1,6 @@
 # PokeConSerial
-Serial Interfaces for Pocket Computers (ポケコン) (Sharp, Casio, TRS80-M100,...)
+Serial Interfaces for Pocket Computers (ポケコン) (Sharp, Casio, TRS80-M100,...)<br>
+(PCB Layouts are in KiCAD 5.1.6*)
 
 - <a href="g850_kiss/">Sharp G800/G850/V/S/VS 11pin USB to Serial Interface</a>
 
