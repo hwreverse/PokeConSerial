@@ -10,7 +10,7 @@ NB3: Bridge the 5V VCCIO Solder Jumper to work with the G850*, this sets the I/O
 
 ## Components
 
-The USB-B-micro Receptacle in this schema is a Molex 105017-0001, every diode / R / C is 0805, FT232RL is a SSOP28, the Polyfuse is a 1210 500mA or similar
+The USB-B-micro Receptacle in this schema is a Molex 105017-0001 / 105017-1001, every diode / R / C is 0805, FT232RL is a SSOP28, the Polyfuse is a 1210 500mA or similar
 
 ## After-Construction Configuration
 
