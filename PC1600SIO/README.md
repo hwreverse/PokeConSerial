@@ -4,7 +4,8 @@ USB to Serial (FT232RL based) Interface for the SHARP PC-E500 / E500S / PC-1600 
 ![Sharp PC-E500/PC-1600 Adapter](pc1600sio_small.png)
 
 ## Important
-NB: the 15pin adapter is a 1x15 pin 1.27mm (50mil) male connector<br>
+NB 1: the 15pin adapter is a 1x15 pin 1.27mm (50mil) male connector<br>
+NB 2: You have to bridge the right solderjumper (RR or RTS) depending on the mode you use for it to work. I have RTS bridged usually 
 
 ## Components
 
