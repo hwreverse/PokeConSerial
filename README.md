@@ -11,6 +11,10 @@ Serial Interfaces for Pocket Computers (ポケコン) (Sharp, Casio, TRS80-M100,
   
 ![Sharp 11pin to 15pin Adapter](img/11to15_small.png)
 
+- <a href="PC1600SIO/">Sharp PC-E500 / PC-1600 15pin USB to Serial Interface</a>
+  
+![Sharp PC-E500 / PC-1600 15pin USB to Serial Interface](img/pc1600sio_small.png)
+
 - Casio FA-7 compatible (for PB-1000, AI-1000, PB-2000C) USB Interface (soon, needs to be validated)
 
 ![Casio FA-7 compatible USB Interface](img/fa7_small.png)
